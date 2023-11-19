@@ -1,7 +1,10 @@
 <?php
 //                                    LYNILDUNLOCK
 //                      TELEGRAM BOT REGISTROS PLIST
-//                            ***    @LynildUnlock    ***            
+//                            ***    @LynildUnlock    ***
+// Made with ❤️ by @LynildUnlock
+// This code is not for sale, free for the community
+// Contact Us for collaboration: Telegram @LynildUnlock
 
 include "var.php";
 //NOMBRE QUE APARECERA EN EL AGRADECIMIENTO DEL BOT
